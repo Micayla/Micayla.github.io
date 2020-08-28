@@ -1,5 +1,4 @@
 # Micayla.github.io
-
-Wow!! First web page!
-
-Boo yah!!
+<h1>YOUR NAME - home page</h1> 
+<p>This is my first web page</p> 
+<p>WOW, it works!</p>
