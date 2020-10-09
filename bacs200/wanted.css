@@ -6,7 +6,7 @@
 
 header {
     border: solid 10px red;
-    background-color: navyblue;
+    background-color: white;
     margin: 0.4in;
     padding: 10px;
     font-size: 300%;
@@ -14,13 +14,13 @@ header {
 
 body {
     border: solid 10px red;
-    background-color: navyblue;
+    background-color: white;
     margin: 1.0in;
 }
 
 main {
     border: solid 10px red;
-    background-color: navyblue;
+    background-color: white;
     margin: 0.4in;
     padding: 10px;
     font-size: 285%
@@ -28,7 +28,7 @@ main {
 
 footer {
     border: solid 10px red;
-    background-color: navyblue;
+    background-color: white;
     margin: 0.4in;
     padding: 10px;
     font-size: 260%;
